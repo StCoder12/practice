@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Main{
     public static void main(String[] args) {
       Integer input = 0;
+      // git check comment
       do{
       Scanner sc = new Scanner(System.in);
       input = sc.nextInt();
